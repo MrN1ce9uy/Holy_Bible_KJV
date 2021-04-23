@@ -14,10 +14,10 @@ CREATE TABLE testament (
 	);
 
 CREATE TABLE verse (
+	testament_id char(2) NOT NULL,
 	book_id char(3) NOT NULL,
 	chapter_id char(3) NOT NULL,
 	verse_id varchar(3) NOT NULL,
-	testament_id char(2) NOT NULL,
 	verse_text text NOT NULL,
 	PRIMARY KEY (book_id, chapter_id, verse_id)
 	);
