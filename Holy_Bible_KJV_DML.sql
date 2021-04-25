@@ -324,4 +324,3 @@ INSERT INTO verse VALUES
 	('Pro', '011', '029', 'He that troubleth his own house shall inherit the wind: and the fool shall be servant to the wise of heart.'),
 	('Pro', '011', '030', 'The fruit of the righteous is a tree of life; and he that winneth souls is wise.'),
 	('Pro', '011', '031', 'Behold, the righteous shall be recompensed in the earth: much more the wicked and the sinner.');
-	
