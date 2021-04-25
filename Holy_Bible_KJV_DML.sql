@@ -38,7 +38,7 @@ INSERT INTO verse VALUES
 	('Pro', '001', '030', 'They would none of my counsel: they despised all my reproof.'),
 	('Pro', '001', '031', 'Therefore shall they eat of the fruit of their own way, and be filled with their own devices.'),
 	('Pro', '001', '032', 'For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them.'),
-	('Pro', '001', '033', 'But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.')
+	('Pro', '001', '033', 'But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.'),
 	('Pro', '002', '001', 'My son, if thou wilt receive my words, and hide my commandments with thee;'),
 	('Pro', '002', '002', 'So that thou incline thine ear unto wisdom, and apply thine heart to understanding;'),
 	('Pro', '002', '003', 'Yea, if thou criest after knowledge, and liftest up thy voice for understanding;'),
@@ -60,7 +60,7 @@ INSERT INTO verse VALUES
 	('Pro', '002', '019', 'None that go unto her return again, neither take they hold of the paths of life.'),
 	('Pro', '002', '020', 'That thou mayest walk in the way of good men, and keep the paths of the righteous.'),
 	('Pro', '002', '021', 'For the upright shall dwell in the land, and the perfect shall remain in it.'),
-	('Pro', '002', '022', 'But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it.')
+	('Pro', '002', '022', 'But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it.'),
 	('Pro', '003', '001', 'My son, forget not my law; but let thine heart keep my commandments:'),
 	('Pro', '003', '002', 'For length of days, and long life, and peace, shall they add to thee.'),
 	('Pro', '003', '003', 'Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:'),
@@ -95,7 +95,7 @@ INSERT INTO verse VALUES
 	('Pro', '003', '032', 'For the froward is abomination to the Lord: but his secret is with the righteous.'),
 	('Pro', '003', '033', 'The curse of the Lord is in the house of the wicked: but he blesseth the habitation of the just.'),
 	('Pro', '003', '034', 'Surely he scorneth the scorners: but he giveth grace unto the lowly.'),
-	('Pro', '003', '035', 'The wise shall inherit glory: but shame shall be the promotion of fools.')
+	('Pro', '003', '035', 'The wise shall inherit glory: but shame shall be the promotion of fools.'),
 	('Pro', '004', '001', 'Hear, ye children, the instruction of a father, and attend to know understanding.'),
 	('Pro', '004', '002', 'For I give you good doctrine, forsake ye not my law.'),
 	('Pro', '004', '003', 'For I was my father\'s son, tender and only beloved in the sight of my mother.'),
@@ -121,7 +121,7 @@ INSERT INTO verse VALUES
 	('Pro', '004', '024', 'Put away from thee a froward mouth, and perverse lips put far from thee.'),
 	('Pro', '004', '025', 'Let thine eyes look right on, and let thine eyelids look straight before thee.'),
 	('Pro', '004', '026', 'Ponder the path of thy feet, and let all thy ways be established.'),
-	('Pro', '004', '027', 'Turn not to the right hand nor to the left: remove thy foot from evil.')
+	('Pro', '004', '027', 'Turn not to the right hand nor to the left: remove thy foot from evil.'),
 	('Pro', '005', '001', 'My son, attend unto my wisdom, and bow thine ear to my understanding:'),
 	('Pro', '005', '002', 'That thou mayest regard discretion, and that thy lips may keep knowledge.'),
 	('Pro', '005', '003', 'For the lips of a strange woman drop as an honeycomb, and her mouth is smoother than oil:'),
@@ -144,7 +144,7 @@ INSERT INTO verse VALUES
 	('Pro', '005', '020', 'And why wilt thou, my son, be ravished with a strange woman, and embrace the bosom of a stranger?'),
 	('Pro', '005', '021', 'For the ways of man are before the eyes of the Lord, and he pondereth all his goings.'),
 	('Pro', '005', '022', 'His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.'),
-	('Pro', '005', '023', 'He shall die without instruction; and in the greatness of his folly he shall go astray.')
+	('Pro', '005', '023', 'He shall die without instruction; and in the greatness of his folly he shall go astray.'),
 	('Pro', '006', '001', 'My son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,'),
 	('Pro', '006', '002', 'Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth.'),
 	('Pro', '006', '003', 'Do this now, my son, and deliver thyself, when thou art come into the hand of thy friend; go, humble thyself, and make sure thy friend.'),
@@ -179,7 +179,7 @@ INSERT INTO verse VALUES
 	('Pro', '006', '032', 'But whoso committeth adultery with a woman lacketh understanding: he that doeth it destroyeth his own soul.'),
 	('Pro', '006', '033', 'A wound and dishonour shall he get; and his reproach shall not be wiped away.'),
 	('Pro', '006', '034', 'For jealousy is the rage of a man: therefore he will not spare in the day of vengeance.'),
-	('Pro', '006', '035', 'He will not regard any ransom; neither will he rest content, though thou givest many gifts.')
+	('Pro', '006', '035', 'He will not regard any ransom; neither will he rest content, though thou givest many gifts.'),
 	('Pro', '007', '001', 'My son, keep my words, and lay up my commandments with thee.'),
 	('Pro', '007', '002', 'Keep my commandments, and live; and my law as the apple of thine eye.'),
 	('Pro', '007', '003', 'Bind them upon thy fingers, write them upon the table of thine heart.'),
@@ -206,7 +206,7 @@ INSERT INTO verse VALUES
 	('Pro', '007', '024', 'Hearken unto me now therefore, O ye children, and attend to the words of my mouth.'),
 	('Pro', '007', '025', 'Let not thine heart decline to her ways, go not astray in her paths.'),
 	('Pro', '007', '026', 'For she hath cast down many wounded: yea, many strong men have been slain by her.'),
-	('Pro', '007', '027', 'Her house is the way to hell, going down to the chambers of death.')
+	('Pro', '007', '027', 'Her house is the way to hell, going down to the chambers of death.'),
 	('Pro', '008', '001', 'Doth not wisdom cry? and understanding put forth her voice?'),
 	('Pro', '008', '002', 'She standeth in the top of high places, by the way in the places of the paths.'),
 	('Pro', '008', '003', 'She crieth at the gates, at the entry of the city, at the coming in at the doors.'),
@@ -242,7 +242,7 @@ INSERT INTO verse VALUES
 	('Pro', '008', '033', 'Hear instruction, and be wise, and refuse it not.'),
 	('Pro', '008', '034', 'Blessed is the man that heareth me, watching daily at my gates, waiting at the posts of my doors.'),
 	('Pro', '008', '035', 'For whoso findeth me findeth life, and shall obtain favour of the Lord.'),
-	('Pro', '008', '036', 'But he that sinneth against me wrongeth his own soul: all they that hate me love death.')
+	('Pro', '008', '036', 'But he that sinneth against me wrongeth his own soul: all they that hate me love death.'),
 	('Pro', '009', '001', 'Wisdom hath builded her house, she hath hewn out her seven pillars:'),
 	('Pro', '009', '002', 'She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.'),
 	('Pro', '009', '003', 'She hath sent forth her maidens: she crieth upon the highest places of the city,'),
@@ -260,7 +260,7 @@ INSERT INTO verse VALUES
 	('Pro', '009', '015', 'To call passengers who go right on their ways:'),
 	('Pro', '009', '016', 'Whoso is simple, let him turn in hither: and as for him that wanteth understanding, she saith to him,'),
 	('Pro', '009', '017', 'Stolen waters are sweet, and bread eaten in secret is pleasant.'),
-	('Pro', '009', '018', 'But he knoweth not that the dead are there; and that her guests are in the depths of hell.')
+	('Pro', '009', '018', 'But he knoweth not that the dead are there; and that her guests are in the depths of hell.'),
 	('Pro', '010', '001', '^The proverbs of Solomon. A wise son maketh a glad father: but a foolish son is the heaviness of his mother.'),
 	('Pro', '010', '002', 'Treasures of wickedness profit nothing: but righteousness delivereth from death.'),
 	('Pro', '010', '003', 'The Lord will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked.'),
@@ -292,7 +292,7 @@ INSERT INTO verse VALUES
 	('Pro', '010', '029', 'The way of the Lord is strength to the upright: but destruction shall be to the workers of iniquity.'),
 	('Pro', '010', '030', 'The righteous shall never be removed: but the wicked shall not inhabit the earth.'),
 	('Pro', '010', '031', 'The mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out.'),
-	('Pro', '010', '032', 'The lips of the righteous know what is acceptable: but the mouth of the wicked speaketh frowardness.')
+	('Pro', '010', '032', 'The lips of the righteous know what is acceptable: but the mouth of the wicked speaketh frowardness.'),
 	('Pro', '011', '001', 'A false balance is abomination to the Lord: but a just weight is his delight.'),
 	('Pro', '011', '002', 'When pride cometh, then cometh shame: but with the lowly is wisdom.'),
 	('Pro', '011', '003', 'The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.'),
