@@ -1,3 +1,6 @@
+/* This is the Data Definition Language that will create the database and the tables. 
+Run each statement individually. */
+
 CREATE DATABASE Holy_Bible_KJV;
 
 USE Holy_Bible_KJV;
@@ -20,5 +23,3 @@ CREATE TABLE verse (
 	verse_text text NOT NULL,
 	PRIMARY KEY (book_id, chapter_id, verse_id)
 	);
-
-
