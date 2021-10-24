@@ -6,8 +6,9 @@ CREATE TABLE IF NOT EXISTS "book_info" (
 	"title_full"	TEXT NOT NULL UNIQUE,
 	"abbreviation"	TEXT NOT NULL UNIQUE,
 	"category"	TEXT NOT NULL,
-	"otnt"	TEXT NOT NULL
-, "chapters"	INTEGER);
+	"otnt"		TEXT NOT NULL,
+	"chapters"	INTEGER
+);
 INSERT INTO book_info VALUES(1,'Genesis','The First Book of Moses Called Genesis','Gen.','Law','OT',50);
 INSERT INTO book_info VALUES(2,'Exodus','The Second Book of Moses Called Exodus','Ex.','Law','OT',40);
 INSERT INTO book_info VALUES(3,'Leviticus','The Third Book of Moses Called Leviticus','Lev.','Law','OT',27);
